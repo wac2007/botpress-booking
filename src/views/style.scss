@@ -1,0 +1,14 @@
+.bookingModule {
+    max-width: 100%;
+    .col1 {
+        width: 100%;
+        max-width: 60%;
+        display: inline-block;
+        vertical-align: top;
+    }
+    .col2 {
+        max-width: 40%;
+        display: inline-block;
+        vertical-align: top;
+    }
+}
